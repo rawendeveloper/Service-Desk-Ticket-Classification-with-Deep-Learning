@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Deep Learning & ML & AI using Python and Pytorch**
 
+- 👨‍💻 All of my projects are available at [https://rawen-ayedi-portfolio.vercel.app/project](https://rawen-ayedi-portfolio.vercel.app/project)
+
 - 📝 I regularly write articles on [https://medium.com/@rawen.ayedi.dev](https://medium.com/@rawen.ayedi.dev)
 
 - 📫 How to reach me **rawen.ayedi.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IO-BlXi6tOCc2i2Ycr1MlPhNq95MXpho/view?usp=sharing](https://drive.google.com/file/d/1IO-BlXi6tOCc2i2Ycr1MlPhNq95MXpho/view?usp=sharing)
+- 📄 Know about my experiences [https://rawen-ayedi-portfolio.vercel.app/](https://rawen-ayedi-portfolio.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
